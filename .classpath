@@ -2,7 +2,7 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
-	<classpathentry kind="lib" path="G:/资料/selenium/selenium-java-2.45.0/selenium-2.45.0/selenium-java-2.45.0.jar"/>
+	<classpathentry kind="lib" path="G:/资料/selenium/selenium-java-2.45.0/selenium-2.45.0/selenium-java-2.45.0.jar" sourcepath="G:/资料/selenium/selenium框架.zip"/>
 	<classpathentry kind="lib" path="G:/资料/selenium/selenium-java-2.45.0/selenium-2.45.0/selenium-java-2.45.0-srcs.jar"/>
 	<classpathentry kind="lib" path="G:/资料/selenium/selenium-java-2.45.0/selenium-2.45.0/libs/apache-mime4j-0.6.jar"/>
 	<classpathentry kind="lib" path="G:/资料/selenium/selenium-java-2.45.0/selenium-2.45.0/libs/cglib-nodep-2.1_3.jar"/>

@@ -1,5 +1,7 @@
 package com.packt.webdriver.charpter1;
-import org.openqa.selenium.*;
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.remote.RemoteWebDriver;
 import org.openqa.selenium.support.ui.ExpectedCondition;
@@ -7,6 +9,8 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 
 public class TestSelenium {
 	public static void main(String[] args){
+//		  WebDriver driver=new InternetExplorerDriver(5555);//newÒ»¸öä¯ÀÀÆ÷£»
+//	        driver.get("http://www.baidu.com");
 		WebDriver  driver= new FirefoxDriver();
 		driver.get("http://www.baidu.com");
 		WebElement element = driver.findElement(By.name("q"));
