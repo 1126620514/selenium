@@ -37,5 +37,6 @@
 	<classpathentry kind="lib" path="libs/xercesImpl-2.11.0.jar"/>
 	<classpathentry kind="lib" path="libs/xml-apis-1.4.01.jar"/>
 	<classpathentry kind="lib" path="libs/selenium-java-2.45.0.jar" sourcepath="libs/selenium-java-2.45.0-srcs.jar"/>
+	<classpathentry kind="lib" path="libs/selenium-java-2.45.0-srcs.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

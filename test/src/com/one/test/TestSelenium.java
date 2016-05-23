@@ -18,7 +18,7 @@ public class TestSelenium {
 		//Æô¶¯goole webdriverµÄ´úÂë
 		System.setProperty("webdriver.chrome.driver", "C:/Program Files (x86)/Google/Chrome/Application/chrome.exe");
 		WebDriver driver = new ChromeDriver();
-		String url = "https://www.baidu.com/";
-		driver.get(url);
+		//String url = "https://www.baidu.com/";
+		//driver.get("https://www.baidu.com/");
 	}
 }
