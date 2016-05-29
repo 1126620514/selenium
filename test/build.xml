@@ -10,7 +10,7 @@
 	</target>
 	<target name="compile" depends="clean">
 		<mkdir dir="build/classes" />
-		<javac srcdir="${src}" destdir="build/classes"  classpathref="compile.path" encoding="UTF-8"/>
+		<javac srcdir="${src}" destdir="build/classes"   encoding="UTF-8"/>
 	</target>
 	
 	<target name="run" depends="compile">
