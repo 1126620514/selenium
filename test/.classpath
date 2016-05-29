@@ -38,5 +38,9 @@
 	<classpathentry kind="lib" path="libs/xml-apis-1.4.01.jar"/>
 	<classpathentry kind="lib" path="libs/selenium-java-2.45.0.jar" sourcepath="libs/selenium-java-2.45.0-srcs.jar"/>
 	<classpathentry kind="lib" path="libs/selenium-java-2.45.0-srcs.jar"/>
+	<classpathentry kind="lib" path="G:/资料/selenium/selenium-java-client-driver-1.0.1/selenium-java-client-driver.jar"/>
+	<classpathentry kind="lib" path="G:/资料/selenium/selenium-java-client-driver-1.0.1/selenium-java-client-driver-sources.jar"/>
+	<classpathentry kind="lib" path="G:/资料/selenium/selenium-java-client-driver-1.0.1/selenium-java-client-driver-tests.jar"/>
+	<classpathentry kind="lib" path="G:/资料/selenium/selenium-java-client-driver-1.0.1/selenium-java-client-driver-test-sources.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
